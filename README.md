@@ -1,4 +1,6 @@
-[[https://github.com/RobertBroersma/resume/blob/master/me.png|alt=Me]]
+<p align="center">
+  <img src="https://github.com/RobertBroersma/resume/raw/master/me.png" width="200px" />
+</p>
 
 # 👨 Profile
 
