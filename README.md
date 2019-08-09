@@ -2,6 +2,8 @@
   <img src="https://github.com/RobertBroersma/resume/raw/master/me.png" width="200px" />
 </p>
 
+[Link to Resume on GitHub](https://github.com/RobertBroersma/resume)
+
 # 👨 Profile
 
 Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React and serverless functions, and I'm currently exploring the world of GraphQL.
