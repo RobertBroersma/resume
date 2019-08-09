@@ -1,18 +1,14 @@
-<div style="display: flex;">
-  <div> 
-  # 👨 Profile
+<p align="center">
+  <img src="https://github.com/RobertBroersma/resume/raw/master/me.png" width="200px" />
+</p>
+
+# 👨 Profile
 
 Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React and serverless functions, and I'm currently exploring the world of GraphQL.
 
 🌐**Location:** Amsterdam, the Netherlands (UTC+2)\
- ☎️**Phone:** +31610504568\
- 📫**E-mail:** robertbroersma@gmail.com
-
-  </div>
-  <p align="center">
-    <img src="https://github.com/RobertBroersma/resume/raw/master/me.png" width="200px" />
-  </p>
-</div>
+☎️**Phone:** +31610504568\
+📫**E-mail:** robertbroersma@gmail.com
 
 Links
 
