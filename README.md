@@ -98,9 +98,10 @@ some of the more junior developers in the team and other teams.
 
 # 💯 My favourite stack
 
-- React (+ Gatsby) with Styled Components
+- React (+ Gatsby or NextJS) with Tailwind CSS
 - AWS Lambda (using nodejs with Netlify functions) + GraphQL using Apollo Server.
 - Prisma Cloud as a database
+- Redwood JS or Blitz JS if possible.
 
 # 🤓 Extra
 
