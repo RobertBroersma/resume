@@ -29,6 +29,12 @@ It works with Web MIDI Api and lets you connect a MIDI piano!
 
 Built with React and XState
 
+## [Statik UI](https://statik.ly) (Coming Soon)
+
+A copy-paste UI kit for developers to quickly create pages in any environment.
+
+Built with Next.js and Tailwind CSS
+
 # 🎓 Education
 
 ## BSc. Creative Technology, University of Twente, Enschede
