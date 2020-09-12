@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RobertBroersma/resume/raw/master/me.png" width="200px" />
+  <img src="https://github.com/RobertBroersma/resume/raw/master/me2.jpg" width="200px" />
 </p>
 
 [Link to Resume on GitHub](https://github.com/RobertBroersma/resume)
