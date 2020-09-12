@@ -1,5 +1,3 @@
-<img src="https://github.com/RobertBroersma/resume/raw/master/me2.jpg" width="200px" />
-
 # 👨 Profile
 
 Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React, Next.js and Gatsby.
