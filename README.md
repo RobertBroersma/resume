@@ -6,7 +6,7 @@
 
 # 👨 Profile
 
-Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React and serverless functions, and I'm currently exploring the world of GraphQL.
+Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React, Next.js and Gatsby.
 
 🌐**Location:** Amsterdam, the Netherlands (UTC+2)\
 ☎️**Phone:** +31610504568\
@@ -17,6 +17,21 @@ Links
 - [Personal Website](http://robertbroersma.com/)
 - [GitHub Profile](https://github.com/RobertBroersma)
 - [Illustrations](https://www.facebook.com/BroersmaRobert/)
+
+# 🚧 Recent Side Projects
+
+## [Big Heads](https://bigheads.io/)
+
+Randomly Generated Characters for Your Apps & Games
+
+Built with Gatsby, Netlify Functions and a lot of SVGs
+
+## [Chord Trainer](https://chord-trainer.netlify.app/)
+
+This is a small web app I created to practice chords on a piano.
+It works with Web MIDI Api and lets you connect a MIDI piano!
+
+Built with React and XState
 
 # 🎓 Education
 
@@ -81,28 +96,18 @@ using Google Closure for the app, and so did I.
 
 _August 2017 — December 2017_
 Ticombo is a ticket-marketplace startup. Their app is built using Angular
-(4+), and I worked here for a while until I realized I really want to use React!
+(4+), and I worked here for a while to support their in-house (but remote) development team.
 It was great to experience working in a fully remote team with people from
 all over the world.
 
 ## Freelance Front End Developer at VodafoneZiggo, Utrecht
 
-_June 2018 — Present_\
-After dabbling in React with personal projects for a while I got my
-first professional React gig! Vodafone is merging with Ziggo (a dutch
-TV/Phone/Internet provider) and they need a new online shop. In a team of
-3 front end developers (and some designers, QA engineers, product owners,
-etc.) we've built a complex shopping basket in React and Redux. I took on a
-senior/lead role, making a lot of early architectural decisions and tutoring
-some of the more junior developers in the team and other teams.
+_June 2018 — June 2020_\
+Vodafone is merging with Ziggo (a dutch
+TV/Phone/Internet provider) and they needed a new online shop. We've built a complex shopping basket in React and Redux. I was involved in making architectural decisions and helping junior developers in the team.
 
-# 💯 My favourite stack
+# 💯 My favourite tools
 
-- React (+ Gatsby or NextJS) with Tailwind CSS
-- AWS Lambda (using nodejs with Netlify functions) + GraphQL using Apollo Server.
-- Prisma Cloud as a database
-- Redwood JS or Blitz JS if possible.
-
-# 🤓 Extra
-
-I used to do some illustrating. I briefly ran a t-shirt company at some point. Check out the [link](https://www.facebook.com/BroersmaRobert/) to my illustrations!
+- React (+ Gatsby or Next.js) with Tailwind CSS
+- Prisma
+- RedwoodJS and BlitzJS
