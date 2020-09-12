@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/RobertBroersma/resume/raw/master/me2.jpg" width="200px" />
-</p>
+<img src="https://github.com/RobertBroersma/resume/raw/master/me2.jpg" width="200px" />
 
 [Link to Resume on GitHub](https://github.com/RobertBroersma/resume)
 
