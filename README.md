@@ -10,7 +10,6 @@ Links
 
 - [Personal Website](http://robertbroersma.com/)
 - [GitHub Profile](https://github.com/RobertBroersma)
-- [Illustrations](https://www.facebook.com/BroersmaRobert/)
 
 # 🚧 Recent Side Projects
 
