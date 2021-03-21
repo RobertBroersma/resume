@@ -109,7 +109,7 @@ all over the world.
 
 _June 2018 — June 2020_\
 Vodafone is merging with Ziggo (a dutch
-TV/Phone/Internet provider) and they needed a new online shop. We've built a complex shopping basket in React and Redux. I was involved in making architectural decisions and helping junior developers in the team.
+TV/Phone/Internet provider) and they needed a new online shop. We've built a complex shopping basket in React and Redux. I was involved in making architectural decisions and helping junior developers in the team. During this time I also developed a keen interest in test-driven development.
 
 # 💯 My favourite tools
 
@@ -120,3 +120,5 @@ TV/Phone/Internet provider) and they needed a new online shop. We've built a com
 - Blitz
 - Netlify
 - Vercel
+- Jest
+- Cypress
