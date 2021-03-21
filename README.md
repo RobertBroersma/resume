@@ -113,10 +113,10 @@ TV/Phone/Internet provider) and they needed a new online shop. We've built a com
 
 # 💯 My favourite tools
 
-- React (+ Gatsby or Next.js)
+- React (+ Next.js)
 - Tailwind CSS
 - Prisma
 - RedwoodJS
-- BlitzJS
+- Blitz
 - Netlify
 - Vercel
