@@ -14,6 +14,8 @@ Links
 
 # 🚧 Recent Side Projects
 
+All side projects developed and designed by me!
+
 ## [OnlyPlants](https://onlyplants.app/)
 
 Easily find vegan recipes from awesome chefs
@@ -31,6 +33,12 @@ Built with Gatsby, Netlify Functions and many SVGs
 A dazzlingly fast E-Commerce solution built with Typescript and Next.js. Designed and bootstrapped briefly before Vercel released their own E-Commerce solution.
 
 Built with Next.js, Shopify, Stripe and react-query.
+
+## [Spoonful Shop](https://tryspoonful.com/)
+
+A fast and modern webshop for an Amsterdam based chocolate spread company.
+
+Built with Next.js, Stripe and Netlify.
 
 ## [Chord Trainer](https://chord-trainer.netlify.app/)
 
