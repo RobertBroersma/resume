@@ -25,6 +25,12 @@ Randomly Generated Characters for Your Apps & Games
 
 Built with Gatsby, Netlify Functions and many SVGs
 
+## [Next Storefront](https://github.com/RobertBroersma/next-storefront)
+
+A dazzlingly fast E-Commerce solution built with Typescript and Next.js. Designed and bootstrapped briefly before Vercel released their own E-Commerce solution.
+
+Built with Next.js, Shopify, Stripe and react-query.
+
 ## [Chord Trainer](https://chord-trainer.netlify.app/)
 
 This is a small web app I created to practice chords on a piano.
