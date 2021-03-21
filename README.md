@@ -13,11 +13,17 @@ Links
 
 # 🚧 Recent Side Projects
 
+## [OnlyPlants](https://onlyplants.app/)
+
+Easily find vegan recipes from awesome chefs
+
+Built with Blitz.js (Next.js, Prisma and Vercel
+
 ## [Big Heads](https://bigheads.io/)
 
 Randomly Generated Characters for Your Apps & Games
 
-Built with Gatsby, Netlify Functions and a lot of SVGs
+Built with Gatsby, Netlify Functions and many SVGs
 
 ## [Chord Trainer](https://chord-trainer.netlify.app/)
 
@@ -26,7 +32,7 @@ It works with Web MIDI Api and lets you connect a MIDI piano!
 
 Built with React and XState
 
-## [Statik UI](https://statik.ly) (Coming Soon)
+## [Statik UI](https://statik.ly)
 
 A copy-paste UI kit for developers to quickly create pages in any environment.
 
