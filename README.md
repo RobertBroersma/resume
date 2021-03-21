@@ -1,6 +1,6 @@
 # 👨 Profile
 
-Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React, Next.js and Gatsby.
+Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React, Next.js and NodeJS.
 
 🌐**Location:** Amsterdam, the Netherlands (UTC+2)\
 ☎️**Phone:** +31610504568\
