@@ -68,49 +68,11 @@ Master's degree in Game Theory, Serious Games and Gamification.
 
 # 💼 Employment History
 
-## Full Stack Developer at Twente Academy, Enschede
+## Freelance Front End Developer at VodafoneZiggo, Utrecht
 
-_2012 — 2013_\
-A small business, run by the university, that provides tutoring to high school
-students. I worked on their custom management software in PHP/Zend
-Framework.
-This was my first programming gig!
-
-## Front End Developer at Wirelab - Digital Agency, Amsterdam
-
-_2013 — 2014_\
-At this digital agency is where I unknowingly started specializing in front end
-development. I mostly used vanilla HTML and CSS.
-
-## Freelance Front End Developer at CHUNK - Digital Agency, Amsterdam
-
-_2015 — 2019_\
-From this point onward I have been working as a freelance developer.
-At this digital agency I further developed my specialization in front end
-development using mostly HTML, LESS and SASS and good old jQuery.
-Various small projects over the course of 4 years.
-
-## Freelance Full Stack Developer at Rijkswaterstaat, Utrecht
-
-_March 2016 — May 2016_\
-For the ministry of infrastructure and water management I developed a user
-interface for one of their database utilities used in construction. This was
-my first job using (at the time) a modern web framework: AngularJS. In the
-backend I used Neo4j, as their datamodel represented a graph.
-
-## Freelance Front End Developer at Vodafone, Amsterdam
-
-_November 2016 — April 2017_
-At Vodafone I've worked in their online shop team for a while, squashing
-bugs, developing new features and making some architectural changes to
-the codebase. Using mostly HTML/CSS, Grunt, LESS and SASS.
-
-## Freelance Front End Developer at Deutsche Glasfaser, Hilversum
-
-_September 2017 — December 2017_
-At this small telecom company from Germany I redesigned and developed
-their Smart TV/Android/iPhone App for watching TV over internet. They were
-using Google Closure for the app, and so did I.
+_June 2018 — June 2020_\
+Vodafone is merging with Ziggo (a dutch
+TV/Phone/Internet provider) and they needed a new online shop. We've built a complex shopping basket in React and Redux. I was involved in making architectural decisions and helping junior developers in the team. During this time I also developed a keen interest in test-driven development.
 
 ## Freelance Front End Developer at Ticombo, Remote
 
@@ -120,11 +82,49 @@ Ticombo is a ticket-marketplace startup. Their app is built using Angular
 It was great to experience working in a fully remote team with people from
 all over the world.
 
-## Freelance Front End Developer at VodafoneZiggo, Utrecht
+## Freelance Front End Developer at Deutsche Glasfaser, Hilversum
 
-_June 2018 — June 2020_\
-Vodafone is merging with Ziggo (a dutch
-TV/Phone/Internet provider) and they needed a new online shop. We've built a complex shopping basket in React and Redux. I was involved in making architectural decisions and helping junior developers in the team. During this time I also developed a keen interest in test-driven development.
+_September 2017 — December 2017_
+At this small telecom company from Germany I redesigned and developed
+their Smart TV/Android/iPhone App for watching TV over internet. They were
+using Google Closure for the app, and so did I.
+
+## Freelance Front End Developer at Vodafone, Amsterdam
+
+_November 2016 — April 2017_
+At Vodafone I've worked in their online shop team for a while, squashing
+bugs, developing new features and making some architectural changes to
+the codebase. Using mostly HTML/CSS, Grunt, LESS and SASS.
+
+## Freelance Full Stack Developer at Rijkswaterstaat, Utrecht
+
+_March 2016 — May 2016_\
+For the ministry of infrastructure and water management I developed a user
+interface for one of their database utilities used in construction. This was
+my first job using (at the time) a modern web framework: AngularJS. In the
+backend I used Neo4j, as their datamodel represented a graph.
+
+## Freelance Front End Developer at CHUNK - Digital Agency, Amsterdam
+
+_2015 — 2019_\
+From this point onward I have been working as a freelance developer.
+At this digital agency I further developed my specialization in front end
+development using mostly HTML, LESS and SASS and good old jQuery.
+Various small projects over the course of 4 years.
+
+## Front End Developer at Wirelab - Digital Agency, Amsterdam
+
+_2013 — 2014_\
+At this digital agency is where I unknowingly started specializing in front end
+development. I mostly used vanilla HTML and CSS.
+
+## Full Stack Developer at Twente Academy, Enschede
+
+_2012 — 2013_\
+A small business, run by the university, that provides tutoring to high school
+students. I worked on their custom management software in PHP/Zend
+Framework.
+This was my first programming gig!
 
 # 💯 My favourite tools
 
