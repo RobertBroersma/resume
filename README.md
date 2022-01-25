@@ -15,6 +15,10 @@ Links
 
 All side projects developed and designed by me!
 
+## [Topo.ink](http://topo.ink/)
+
+Design and print your own map posters.
+
 ## [OnlyPlants](https://onlyplants.app/)
 
 Easily find vegan recipes from awesome chefs
@@ -127,12 +131,13 @@ This was my first programming gig!
 
 # 💯 My favourite tools
 
-- React (+ Next.js)
+- React
+- Remix
+- Next.js / Blitz
 - Tailwind CSS
 - Prisma
-- RedwoodJS
-- Blitz
 - Netlify
 - Vercel
+- Cloudflare
 - Jest
 - Cypress
