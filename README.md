@@ -1,6 +1,6 @@
 # 👨 Profile
 
-Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React, Next.js and Node.js.
+Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React, Remix, Next.js and Node.js.
 
 🌐**Location:** Amsterdam, the Netherlands (UTC+2)\
 📫**E-mail:** robertbroersma@gmail.com
@@ -71,6 +71,11 @@ Master's degree in Game Theory, Serious Games and Gamification.
 
 # 💼 Employment History
 
+## Full Stack Web Developer at Lightyear
+
+_September 2021 — January 2023_\
+Lightyear was building a car that drives on the sun. How cool is that! I was the lead developer on the website, built using React + Remix, integrated with Storyblok CMS and deployed to Cloudflare Pages for a super fast experience.
+
 ## Freelance Front End Developer at VodafoneZiggo, Utrecht
 
 _June 2018 — June 2020_\
@@ -133,11 +138,11 @@ This was my first programming gig!
 
 - React
 - Remix
-- Next.js / Blitz
+- Next.js
 - Tailwind CSS
 - Prisma
 - Netlify
 - Vercel
-- Cloudflare
+- Cloudflare Pages & Cloudflare Workers
 - Jest
 - Cypress
