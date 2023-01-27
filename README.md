@@ -145,4 +145,4 @@ This was my first programming gig!
 - Vercel
 - Cloudflare Pages & Cloudflare Workers
 - Jest
-- Cypress
+- Playwright
