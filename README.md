@@ -15,11 +15,11 @@ Links
 
 All side projects developed and designed by me!
 
-## [Topo.ink](http://topo.ink/) (Disabled, only cached files still viewable)
+## [Topo.ink](http://topo.ink/) 
 
 Design and print your own map posters.
 
-## [OnlyPlants](https://onlyplants.app/)
+## [OnlyPlants](https://onlyplants.app/) (Disabled, only cached files still viewable)
 
 Easily find vegan recipes from awesome chefs
 
