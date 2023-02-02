@@ -24,12 +24,6 @@ All side projects developed and designed by me!
 
 Design and print your own map posters.
 
-## [OnlyPlants](https://onlyplants.app/) (Disabled, only cached files still viewable)
-
-Easily find vegan recipes from awesome chefs
-
-Built with Blitz.js (Next.js, Prisma and Vercel
-
 ## [Big Heads](https://bigheads.io/)
 
 Randomly Generated Characters for Your Apps & Games
