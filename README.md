@@ -1,9 +1,14 @@
 # 👨 Profile
 
-Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. My favourite tools are React, Remix, Next.js and Node.js.
+Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. I specialize in full stack development with Typescript using React, Remix, Next.js, TailwindCSS and Node.js.
 
-🌐**Location:** Amsterdam, the Netherlands (UTC+2)\
-📫**E-mail:** robertbroersma@gmail.com
+🌐**Location:** Amsterdam, the Netherlands (UTC+2).\
+💼**Work Location:** Fully remote, or Amsterdam Area + maximum 45 minutes driving or public transport.\
+🕛**Availability:**: From 1st of March 2023. Maximum of 32 hours/week.\
+📫**E-mail:** robertbroersma@gmail.com\
+⭐**Rate**: Starting at €100/hr depending on the company.
+
+Questions? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/robert-broersma/) or send me an email!
 
 Links
 
