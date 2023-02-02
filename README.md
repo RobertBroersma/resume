@@ -3,7 +3,8 @@
 Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. I specialize in full stack development with Typescript using React, Remix, Next.js, TailwindCSS and Node.js.
 
 🌐**Location:** Amsterdam, the Netherlands (UTC+2).\
-💼**Work Location:** Fully remote, or Amsterdam Area + maximum 45 minutes driving or public transport.\
+🗺️**Work Location:** Fully remote, or Amsterdam Area + maximum 45 minutes driving or public transport.\
+💼**Looking for:** Senior freelance opportunities.\
 🕛**Availability:**: From 1st of March 2023. Maximum of 32 hours/week.\
 📫**E-mail:** robertbroersma@gmail.com\
 ⭐**Rate**: Starting at €100/hr depending on the company.
