@@ -7,7 +7,7 @@ Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites
 💼**Looking for:** Senior **freelance** opportunities.\
 🕛**Availability:**: From 1st of March 2023. Maximum of 32 hours/week.\
 📫**E-mail:** robertbroersma@gmail.com\
-⭐**Rate**: Starting at €100/hr depending on the company.
+⭐**Rate**: Starting at €100/hr.
 
 Questions? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/robert-broersma/) or send me an email!
 
