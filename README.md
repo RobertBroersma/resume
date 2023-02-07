@@ -5,7 +5,7 @@ Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites
 🌐**Location:** Amsterdam, the Netherlands (UTC+2).\
 🗺️**Work Location:** Fully remote, or Amsterdam Area + maximum 45 minutes driving or public transport.\
 💼**Looking for:** Senior **freelance** opportunities.\
-🕛**Availability:**: From 1st of March 2023. Maximum of 32 hours/week.\
+🕛**Availability:**: From 1st of March 2023. Preferably 24 hours/week.\
 📫**E-mail:** robertbroersma@gmail.com\
 ⭐**Rate**: Starting at €100/hr.
 
