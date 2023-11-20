@@ -37,7 +37,7 @@ A dazzlingly fast E-Commerce solution built with Typescript and Next.js. Designe
 
 Built with Next.js, Shopify, Stripe and react-query.
 
-## [Spoonful Shop](https://tryspoonful.com/)
+## [Spoonful Shop](https://spoonful-website.netlify.app/)
 
 A fast and modern webshop for an Amsterdam based chocolate spread company.
 
