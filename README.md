@@ -3,11 +3,7 @@
 Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. I specialize in full stack development with Typescript using React, Remix, Next.js, TailwindCSS and Node.js.
 
 🌐**Location:** Amsterdam, the Netherlands (UTC+2).\
-🗺️**Work Location:** Fully remote, or Amsterdam Area + maximum 45 minutes driving or public transport.\
-💼**Looking for:** Senior **freelance** opportunities.\
-🕛**Availability:**: Now available. Preferably 24 hours/week.\
 📫**E-mail:** robertbroersma@gmail.com\
-⭐**Rate**: Starting at €100/hr.
 
 Questions? Shoot me a message on [LinkedIn](https://www.linkedin.com/in/robert-broersma/) or send me an email!
 
@@ -25,7 +21,7 @@ All side projects developed and designed by me!
 
 Design and print your own map posters.
 
-## [Big Heads](https://bigheads.io/)
+## [Bean Heads](https://bigheads.io/)
 
 Randomly Generated Characters for Your Apps & Games
 
