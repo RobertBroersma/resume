@@ -133,12 +133,8 @@ This was my first programming gig!
 # 💯 My favourite tools
 
 - React
-- Remix
 - Next.js
 - Tailwind CSS
 - Prisma
-- Netlify
 - Vercel
-- Cloudflare Pages & Cloudflare Workers
-- Jest
 - Playwright
