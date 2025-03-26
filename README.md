@@ -12,7 +12,6 @@ Links
 
 - [Personal Website](http://robertbroersma.com/)
 - [GitHub Profile](https://github.com/RobertBroersma)
-- [Twitter](https://twitter.com/robertbrosma)
 
 # 🚧 Recent Side Projects
 
