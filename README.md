@@ -1,6 +1,6 @@
 # 👨 Profile
 
-Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. I specialize in full stack development with Typescript using React, Remix, Next.js, TailwindCSS and Node.js.
+Hi, I'm **Robert Broersma**. I create clean, accessible, and performant websites and webapps. I specialize in full stack development with Typescript using React, Next.js and TailwindCSS.
 
 🌐**Location:** Amsterdam, the Netherlands (UTC+2).\
 📫**E-mail:** robertbroersma@gmail.com\
