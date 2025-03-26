@@ -17,10 +17,6 @@ Links
 
 All side projects developed and designed by me!
 
-## [Topo.ink](http://topo.ink/) 
-
-Design and print your own map posters.
-
 ## [Bean Heads](https://bigheads.io/)
 
 Randomly Generated Characters for Your Apps & Games
